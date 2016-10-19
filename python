@@ -1,2 +1,2 @@
 source /home/xxx/python_env/python.bashrc
-/home/xxx/bin/python $*
+/home/xxx/ddd/bin/python $*
